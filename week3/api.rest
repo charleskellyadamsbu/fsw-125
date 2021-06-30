@@ -1,3 +1,0 @@
-GET http://localhost:3000/bounty
-
-POST http://localhost:3000/bounty/?first=charlie&last=adams&living=true&bounty=10000&type=sith
